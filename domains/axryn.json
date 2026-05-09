@@ -1,10 +1,8 @@
 {
-  "description": "FAA student pilot logbook and verification platform.",
-  "repo": "https://github.com/ADG-A/axryn-student",
   "owner": {
     "username": "ADG-A"
   },
-  "record": {
+  "records": {
     "CNAME": "axryn-student.onrender.com"
   }
 }
